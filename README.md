@@ -107,7 +107,7 @@ fun_fact: "I love turning ideas into working applications!"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thrakaprabash&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/thrakaprabash)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=thrakaprabash&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/thrakaprabash)
 
 </div>
 
