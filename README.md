@@ -19,7 +19,7 @@
 ```yaml
 name: Thraka Prabash
 location: Sri Lanka 🇱🇰
-education: BSc (Hons) in Information Technology @ SLIIT
+education: BSc (Hons) in Information Technology Specialized in Software Engineering @ SLIIT
 student_id: IT23773844
 interests:
   - Full-Stack Web Development
