@@ -1,128 +1,133 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C7B7&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&fontAlignY=38&animation=twinkling&desc=I'm%20Thraka%20Prabash&descAlignY=58&descAlign=62" width="100%" alt="Header" />
+</div>
 
-# Hey there! 👋 I'm Thraka Prabash
+<div align="center">
 
-### 🚀 Full-Stack Developer | 🎓 SLIIT Undergraduate | 💡 Tech Enthusiast
+[![GitHub followers](https://img.shields.io/github/followers/thrakaprabash?logo=GitHub&style=for-the-badge&color=8A2BE2)](https://github.com/thrakaprabash)
+[![GitHub Stars](https://img.shields.io/github/stars/thrakaprabash?logo=github&style=for-the-badge&color=00C7B7)](https://github.com/thrakaprabash)
+[![Profile Views](https://komarev.com/ghpvc/?username=thrakaprabash&color=blueviolet&style=for-the-badge)](#)
 
-[![GitHub followers](https://img.shields.io/github/followers/thrakaprabash?logo=GitHub&style=for-the-badge)](https://github.com/thrakaprabash)
-[![GitHub Stars](https://img.shields.io/github/stars/thrakaprabash?logo=github&style=for-the-badge)](https://github.com/thrakaprabash)
-[![Profile Views](https://komarev.com/ghpvc/?username=thrakaprabash&color=blueviolet&style=for-the-badge)](https://github.com/thrakaprabash)
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Python+%26+Java+Coder;Building+Cool+Projects+%F0%9F%9A%80;Continuous+Learner+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+---
+
+<table align="center" width="100%" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="65%" valign="top">
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🎓 <b>Education:</b> BSc (Hons) in Information Technology Specialized in Software Engineering @ SLIIT</li>
+        <li>💻 <b>Interests:</b> Full-Stack Web Development, Software Quality Management, Open Source</li>
+        <li>🤝 <b>Looking to collaborate on:</b> MERN stack projects, Python & Java tools</li>
+        <li>🎯 <b>Fun Fact:</b> I love turning complex ideas into scalable, user-friendly applications!</li>
+      </ul>
+      <br/>
+      <i>❝ Clean code always looks like it was written by someone who cares. ❞</i>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+**Languages:**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java" alt="Languages" />
+</a>
+
+<br><br>
+
+**Frameworks & Libraries:**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,bootstrap,tailwind" alt="Frameworks" />
+</a>
+
+<br><br>
+
+**Databases, Testing & Tools:**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,netlify,postman,figma" alt="Tools" />
+</a>
+
+> **Additional Skills:** Playwright, Software Quality Assurance, SDLC, RESTful APIs, Agile Methodologies
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Thraka Prabash
-location: Sri Lanka 🇱🇰
-education: BSc (Hons) in Information Technology Specialized in Software Engineering @ SLIIT
-student_id: IT23773844
-interests:
-  - Full-Stack Web Development
-  - Software Quality Management
-  - Open Source Tools
-currently_building: "Toolsyne - Free Online Tool Hub 🛠️"
-fun_fact: "I love turning ideas into working applications!"
-```
-
----
-
-## 🛠️ Tech Stack
+## 🔥 Featured Projects
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧪 Testing
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+| 📂 Project | 📝 Description | 🚀 Tech Stack |
+|:---|:---|:---|
+| 🛠️ [**Toolsyne**](https://github.com/thrakaprabash/toolsyne) | A fast, free online tool hub with calculators, converters & reference tools | `React` `Vite` `JavaScript` |
+| 🌐 [**SLIIT Connect**](https://github.com/thrakaprabash/nut-loose) | Full-stack student social & mental wellness platform with mood tracking | `MERN Stack` |
+| 🛒 [**E-Commerce**](https://github.com/thrakaprabash/ecommerce) | Full-stack, responsive e-commerce application | `JavaScript` `React` `Vite` |
+| 🧪 [**SEPQM Assignment**](https://github.com/thrakaprabash/SEPQM---Assignment-1) | Software Quality Management — E2E Playwright automated testing | `JavaScript` `Playwright` |
+| 📚 [**AF Lab 3**](https://github.com/thrakaprabash/IT23773844-AF-Lab-3) | Application Frameworks lab — JS Promises, Callbacks & Async/Await | `HTML` `JavaScript` |
+| 📦 [**Lab 4 NodeJS**](https://github.com/thrakaprabash/Lab-4-NodeJS) | Node.js fundamentals — HTTP server, file system, modules & promises | `Node.js` |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛠️ [**Toolsyne**](https://github.com/thrakaprabash/toolsyne) | A fast, free online tool hub with calculators, converters & reference tools | React, Vite, JavaScript |
-| 🌐 [**SLIIT Connect**](https://github.com/thrakaprabash/nut-loose) | Full-stack student social & mental wellness platform with mood tracking & counseling | MERN Stack |
-| 🛒 [**E-Commerce**](https://github.com/thrakaprabash/ecommerce) | Full-stack e-commerce application | JavaScript, React, Vite |
-| 🧪 [**SEPQM Assignment**](https://github.com/thrakaprabash/SEPQM---Assignment-1) | Software Quality Management — Playwright automated testing | JavaScript, Playwright |
-| 📚 [**AF Lab 3**](https://github.com/thrakaprabash/IT23773844-AF-Lab-3) | Application Frameworks lab — JS Promises, Callbacks & Async/Await | HTML, JavaScript |
-| 📦 [**Lab 4 NodeJS**](https://github.com/thrakaprabash/Lab-4-NodeJS) | Node.js fundamentals — HTTP server, file system, modules & promises | Node.js |
-
+  <a href="https://github.com/thrakaprabash">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/thrakaprabash">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF" alt="Top Langs" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/thrakaprabash">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C7B7&currStreakNum=00C7B7" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity Graph & Trophies
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-
+  <a href="https://github.com/thrakaprabash">
+    <img width="800em" src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
+  </a>
 </div>
-
----
-
-## 📈 Contribution Graph
-
+<br/>
 <div align="center">
-
-[![Thraka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)](https://github.com/thrakaprabash)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=thrakaprabash&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/thrakaprabash)
-
+  <a href="https://github.com/thrakaprabash">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=thrakaprabash&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-thrakaprabash-181717?style=for-the-badge&logo=github)](https://github.com/thrakaprabash)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-
-**⭐ If you like my projects, give them a star!**
-
+  <h3>🤝 Let's Connect!</h3>
+  <a href="https://github.com/thrakaprabash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/tharaka-prabash-670720287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C7B7&height=100&section=footer" width="100%" alt="Footer" />
+  
+  **⭐ If you like my projects, feel free to give them a star!**
 </div>
