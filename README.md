@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Python+%26+Java+Coder;Building+Cool+Projects+%F0%9F%9A%80;Continuous+Learner+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Python+%26+Java+Coder;Software+Quality+Engineer;Building+Cool+Projects+%F0%9F%9A%80;Continuous+Learner+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,8 +21,10 @@
       <h2>🚀 About Me</h2>
       <ul>
         <li>🎓 <b>Education:</b> BSc (Hons) in Information Technology Specialized in Software Engineering @ SLIIT</li>
-        <li>💻 <b>Interests:</b> Full-Stack Web Development, Software Quality Management, Open Source</li>
+        <li>💻 <b>Interests:</b> Full-Stack Web Development, Software Quality Engineering, Open Source</li>
+        <li>🌱 <b>Currently Learning:</b> TypeScript, Next.js, Cloud Technologies & DevOps</li>
         <li>🤝 <b>Looking to collaborate on:</b> MERN stack projects, Python & Java tools</li>
+        <li>📫 <b>Reach me:</b> <a href="https://www.linkedin.com/in/tharaka-prabash-670720287/">LinkedIn</a> | <a href="https://github.com/thrakaprabash">GitHub</a></li>
         <li>🎯 <b>Fun Fact:</b> I love turning complex ideas into scalable, user-friendly applications!</li>
       </ul>
       <br/>
@@ -36,30 +38,45 @@
 
 ---
 
+## 🌱 Currently Learning
+
+<div align="center">
+
+```text
+TypeScript   ████████████░░░░░░░░   60%
+Next.js      ██████████░░░░░░░░░░   50%
+Docker       ████████░░░░░░░░░░░░   40%
+AWS          ██████░░░░░░░░░░░░░░   30%
+```
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
 **Languages:**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java" alt="Languages" />
 </a>
 
 <br><br>
 
 **Frameworks & Libraries:**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,bootstrap,tailwind" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,bootstrap,tailwind" alt="Frameworks" />
 </a>
 
 <br><br>
 
 **Databases, Testing & Tools:**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,netlify,postman,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode,netlify,vercel,postman,figma" alt="Tools" />
 </a>
 
-> **Additional Skills:** Playwright, Software Quality Assurance, SDLC, RESTful APIs, Agile Methodologies
+> **Additional Skills:** Playwright, Software Quality Assurance, SDLC, RESTful APIs, Agile Methodologies, CI/CD
 
 </div>
 
@@ -113,6 +130,18 @@
   <a href="https://github.com/thrakaprabash">
     <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=thrakaprabash&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
   </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thrakaprabash/thrakaprabash/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thrakaprabash/thrakaprabash/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/thrakaprabash/thrakaprabash/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
