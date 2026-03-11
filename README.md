@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=700&lines=🚀+Full-Stack+Web+Developer;⚡+MERN+Stack+%26+Next.js+Builder;🧪+Software+Quality+Engineer;☕+Java+%26+Python+Enthusiast;🌐+Building+Micro-SaaS+Products;✨+Continuous+Learner+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Full-Stack+Web+Developer;%E2%9A%A1+MERN+Stack+%26+Next.js+Builder;%F0%9F%A7%AA+Software+Quality+Engineer;%E2%98%95+Java+%26+Python+Enthusiast;%F0%9F%8C%90+Building+Micro-SaaS+Products;%E2%9C%A8+Continuous+Learner+%26+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
