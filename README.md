@@ -186,8 +186,8 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🐳 <a href="https://github.com/thrakaprabash">Dockerized Microservices</a></h3>
-      <p>Containerised multi-service applications using Docker and Docker Compose with isolated networking, volume management, and environment configuration.</p>
+      <h3>🐳 Dockerized Microservices <kbd>Coming Soon</kbd></h3>
+      <p>Containerized multi-service applications using Docker and Docker Compose with isolated networking, volume management, and environment configuration.</p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -195,7 +195,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
       <img src="https://img.shields.io/badge/Status-🔨_In_Progress-orange?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🟣 <a href="https://github.com/thrakaprabash">Kotlin REST API</a></h3>
+      <h3>🟣 Kotlin REST API <kbd>Coming Soon</kbd></h3>
       <p>A RESTful backend service built with Kotlin and Spring Boot — following clean architecture, dependency injection, and best practices for modern JVM development.</p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -206,8 +206,8 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/thrakaprabash">Docker + Node.js App</a></h3>
-      <p>Full-stack Node.js application containerised with Docker — Dockerfile, multi-stage builds, and deployment-ready configuration for cloud environments.</p>
+      <h3>📦 Docker + Node.js App <kbd>Coming Soon</kbd></h3>
+      <p>Full-stack Node.js application containerized with Docker — Dockerfile, multi-stage builds, and deployment-ready configuration for cloud environments.</p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -215,7 +215,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
       <img src="https://img.shields.io/badge/Status-🔨_In_Progress-orange?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/thrakaprabash">Kotlin CLI Tool</a></h3>
+      <h3>⚙️ Kotlin CLI Tool <kbd>Coming Soon</kbd></h3>
       <p>Command-line utility tool written in Kotlin — showcasing coroutines, data classes, sealed classes, and idiomatic Kotlin patterns for backend tooling.</p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/JVM-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -228,7 +228,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 
 <br/>
 
-> 🚀 *Actively building and containerising projects with Docker & Kotlin — repos will be published soon!*
+> 🚀 *Actively building and containerizing projects with Docker & Kotlin — repos will be published soon!*
 
 </div>
 
