@@ -128,7 +128,7 @@ Based on your public pull request activity outside your own account:
 - [#89 – Add patient report download feature](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/89)
 - [#87 – Refactor patient dashboard layout and styles](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/87)
 - [#53 – Implement Doctor and Notification services with environment updates](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/53)
-- [#51 – Implement notification service with RabbitMQ integration and templates](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/51)
+- [#51 – Implement notification service with RabbitMQ integration and template support](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/51)
 
 ---
 
