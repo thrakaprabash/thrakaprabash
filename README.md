@@ -97,79 +97,38 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 
 ---
 
-## 🔥 Currently Active Repositories
+## 🔥 Repository Snapshot (Based on Recent Activity)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Open+source+%7C+MERN+%7C+SaaS+%7C+QA+%7C+Real-world+apps" alt="Projects Typing" />
-</div>
+| Repository | Focus / Type | Primary Stack |
+|---|---|---|
+| [nut-loose](https://github.com/thrakaprabash/nut-loose) | Youth mental health awareness web platform | JavaScript |
+| [AF-LAB-6-Social-API](https://github.com/thrakaprabash/AF-LAB-6-Social-API) | Social API/backend lab implementation | JavaScript, Node.js |
+| [toolsyne](https://github.com/thrakaprabash/toolsyne) | Utility hub with practical daily-use tools | JavaScript, React, Vite |
+| [Creator-Economy-SaaS-Platform](https://github.com/thrakaprabash/Creator-Economy-SaaS-Platform) | Full-stack creator-focused micro-SaaS | MERN Stack |
+| [Lab-4-NodeJS](https://github.com/thrakaprabash/Lab-4-NodeJS) | Node.js fundamentals and async patterns | JavaScript, Node.js |
+| [IT23773844-AF-Lab-3](https://github.com/thrakaprabash/IT23773844-AF-Lab-3) | Academic lab/project repository | HTML |
+| [ecommerce](https://github.com/thrakaprabash/ecommerce) | Responsive e-commerce web app | JavaScript, React, Vite |
+| [BoardMate](https://github.com/thrakaprabash/BoardMate) | Collaborative board-game companion app | JavaScript, Node.js |
+| [OOPPROJECT](https://github.com/thrakaprabash/OOPPROJECT) | Object-oriented design practice project | Java |
+| [skills-introduction-to-github](https://github.com/thrakaprabash/skills-introduction-to-github) | GitHub skills learning repository | GitHub Skills |
 
-<br/>
+> ✅ Snapshot updated from your latest public repository activity.
 
-<div align="center">
+---
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/thrakaprabash/nut-loose">nut-loose</a></h3>
-      <p>Youth mental health website focused on awareness, support resources, and user-friendly experience.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Web-0D1117?style=flat-square&logo=google-chrome&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 <a href="https://github.com/thrakaprabash/AF-LAB-6-Social-API">AF-LAB-6-Social-API</a></h3>
-      <p>Social API lab project focused on backend development patterns and API design fundamentals.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/thrakaprabash/toolsyne">toolsyne</a></h3>
-      <p>A fast, free online tool hub with calculators, converters, and reference tools for daily use.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌟 <a href="https://github.com/thrakaprabash/Creator-Economy-SaaS-Platform">Creator-Economy-SaaS-Platform</a></h3>
-      <p>A full-stack MERN Micro-SaaS for content creators with tools for dashboard and monetization workflows.</p>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/thrakaprabash/ecommerce">ecommerce</a></h3>
-      <p>Responsive full-stack e-commerce application with product listing, cart, and checkout features.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/thrakaprabash/BoardMate">BoardMate</a></h3>
-      <p>A collaborative board game companion app for tracking players, scores, and game states.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/thrakaprabash/Lab-4-NodeJS">Lab-4-NodeJS</a></h3>
-      <p>Node.js fundamentals including HTTP server, file system operations, modules, and async patterns.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/thrakaprabash/OOPPROJECT">OOPPROJECT</a></h3>
-      <p>Java OOP project demonstrating object-oriented principles and software design concepts.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+## 🤝 Contributions in Other Repositories
 
-</div>
+Based on your public pull request activity outside your own account:
+
+- **[Vihanga-Deemantha/Smart-Health-Care](https://github.com/Vihanga-Deemantha/Smart-Health-Care)**  
+  Active contributor across backend and feature improvements.
+
+**Notable PRs**
+- [#90 – Revise backend services documentation and enhance patient booking](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/90)
+- [#89 – Add patient report download feature](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/89)
+- [#87 – Refactor patient dashboard layout and styles](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/87)
+- [#53 – Implement Doctor and Notification services with environment updates](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/53)
+- [#51 – Implement notification service with RabbitMQ integration and templates](https://github.com/Vihanga-Deemantha/Smart-Health-Care/pull/51)
 
 ---
 
@@ -244,7 +203,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C7B7&currStreakNum=00C7B7&sideLabels=00C7B7&currStreakLabel=6C63FF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C7B7&currStreakNum=00C7B7&sideLabels=00C7B7&currStreakLabel=6C63FF&sideNums=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -258,7 +217,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=thrakaprabash&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thrakaprabash&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -266,11 +225,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thrakaprabash/thrakaprabash/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thrakaprabash/thrakaprabash/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/thrakaprabash/thrakaprabash/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thrakaprabash&theme=tokyonight" alt="Contribution Summary Card" />
 </div>
 
 ---
