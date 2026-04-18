@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Full-Stack+Web+Developer;%E2%9A%A1+MERN+Stack+%26+Next.js+Builder;%F0%9F%A7%AA+Software+Quality+Engineer;%E2%98%95+Java+%26+Python+Enthusiast;%F0%9F%8C%90+Building+Micro-SaaS+Products;%E2%9C%A8+Continuous+Learner+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%9A%80+Full-Stack+Web+Developer;%E2%9A%A1+MERN+Stack+%26+Next.js+Builder;%F0%9F%90%B3+Docker+%26+Kotlin+Developer;%F0%9F%A7%AA+Software+Quality+Engineer;%E2%98%95+Java+%26+Python+Enthusiast;%F0%9F%8C%90+Building+Micro-SaaS+Products;%E2%9C%A8+Continuous+Learner+%26+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,8 +26,9 @@
       <p>
         🎓 &nbsp;<b>BSc (Hons) IT — Software Engineering</b> @ <a href="https://www.sliit.lk">SLIIT</a><br/>
         💼 &nbsp;<b>Focus:</b> Full-Stack Development, SQE, Micro-SaaS & Open Source<br/>
-        🌱 &nbsp;<b>Currently Leveling Up:</b> TypeScript · Next.js · Docker · AWS<br/>
-        🤝 &nbsp;<b>Open to Collaborate On:</b> MERN projects · SaaS tools · QA automation<br/>
+        🌱 &nbsp;<b>Currently Leveling Up:</b> TypeScript · Next.js · Docker · Kotlin · AWS<br/>
+        🐳 &nbsp;<b>Currently Building:</b> Dockerized services · Kotlin backend applications<br/>
+        🤝 &nbsp;<b>Open to Collaborate On:</b> MERN projects · SaaS tools · QA automation · Docker/Kotlin APIs<br/>
         📫 &nbsp;<b>Connect:</b>
         <a href="https://www.linkedin.com/in/tharaka-prabash-670720287/">LinkedIn</a> ·
         <a href="https://github.com/thrakaprabash">GitHub</a><br/>
@@ -51,12 +52,12 @@
 <div align="center">
 
 **⬡ Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&perline=6" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,html,css,python,java&perline=7" alt="Languages" />
 
 <br/><br/>
 
 **⬡ Frameworks & Libraries**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap&perline=7" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap,spring&perline=8" alt="Frameworks" />
 
 <br/><br/>
 
@@ -71,6 +72,9 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-4CAF50?style=flat-square&logo=checkmarx&logoColor=white)
 ![SQA](https://img.shields.io/badge/Software_QA-E91E63?style=flat-square&logo=testcafe&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -83,7 +87,8 @@
 ```text
 TypeScript   ██████████████░░░░░░   70%
 Next.js      ████████████░░░░░░░░   60%
-Docker       ██████████░░░░░░░░░░   50%
+Docker       █████████████░░░░░░░   65%
+Kotlin       ██████████░░░░░░░░░░   50%
 AWS          ████████░░░░░░░░░░░░   40%
 DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 ```
@@ -92,69 +97,138 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Currently Active Repositories
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Open+source+%7C+MERN+%7C+SaaS+%7C+QA+%7C+Real-world+apps" alt="Projects Typing" />
+</div>
+
+<br/>
 
 <div align="center">
 
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌟 <a href="https://github.com/thrakaprabash/Creator-Economy-SaaS-Platform">Creator Economy SaaS Platform</a></h3>
-      <p>A full-stack MERN Micro-SaaS built for content creators — dashboard, analytics & monetization tools.</p>
+      <h3>🧠 <a href="https://github.com/thrakaprabash/nut-loose">nut-loose</a></h3>
+      <p>Youth mental health website focused on awareness, support resources, and user-friendly experience.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Web-0D1117?style=flat-square&logo=google-chrome&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 <a href="https://github.com/thrakaprabash/AF-LAB-6-Social-API">AF-LAB-6-Social-API</a></h3>
+      <p>Social API lab project focused on backend development patterns and API design fundamentals.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/thrakaprabash/toolsyne">toolsyne</a></h3>
+      <p>A fast, free online tool hub with calculators, converters, and reference tools for daily use.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌟 <a href="https://github.com/thrakaprabash/Creator-Economy-SaaS-Platform">Creator-Economy-SaaS-Platform</a></h3>
+      <p>A full-stack MERN Micro-SaaS for content creators with tools for dashboard and monetization workflows.</p>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/thrakaprabash/toolsyne">Toolsyne</a></h3>
-      <p>A fast, free online tool hub with calculators, converters & reference tools — built for everyday utility.</p>
+      <h3>🛒 <a href="https://github.com/thrakaprabash/ecommerce">ecommerce</a></h3>
+      <p>Responsive full-stack e-commerce application with product listing, cart, and checkout features.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/thrakaprabash/BoardMate">BoardMate</a></h3>
-      <p>A collaborative board game companion app for tracking scores, players and game states.</p>
+      <p>A collaborative board game companion app for tracking players, scores, and game states.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/thrakaprabash/ecommerce">E-Commerce App</a></h3>
-      <p>Full-stack, responsive e-commerce application with product listing, cart & checkout flow.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/thrakaprabash/OOPPROJECT">OOP Project</a></h3>
-      <p>Object-Oriented Programming project built in Java, demonstrating design patterns & OOP principles.</p>
+      <h3>📦 <a href="https://github.com/thrakaprabash/Lab-4-NodeJS">Lab-4-NodeJS</a></h3>
+      <p>Node.js fundamentals including HTTP server, file system operations, modules, and async patterns.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/thrakaprabash/OOPPROJECT">OOPPROJECT</a></h3>
+      <p>Java OOP project demonstrating object-oriented principles and software design concepts.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/thrakaprabash/IT23773844-AF-Lab-3">AF Lab 3 — Async JS</a></h3>
-      <p>Application Frameworks lab covering JS Promises, Callbacks & Async/Await patterns.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/thrakaprabash/Lab-4-NodeJS">Lab 4 — Node.js</a></h3>
-      <p>Node.js fundamentals — HTTP server, file system operations, modules & async patterns.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/thrakaprabash/skills-introduction-to-github">GitHub Skills</a></h3>
-      <p>Hands-on introduction to GitHub — repositories, pull requests, issues & GitHub Flow fundamentals.</p>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 🐳 Docker & Kotlin Projects
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=2496ED&center=true&vCenter=true&width=600&lines=Containerizing+apps+with+Docker+%F0%9F%90%B3;Building+backend+services+in+Kotlin+%F0%9F%9A%80;Clean+architecture+%7C+REST+%7C+Spring+Boot" alt="Docker Kotlin Typing" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐳 Dockerized Microservices <kbd>Coming Soon</kbd></h3>
+      <p>Containerized multi-service applications using Docker and Docker Compose with isolated networking, volume management, and environment configuration.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-🔨_In_Progress-orange?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🟣 Kotlin REST API <kbd>Coming Soon</kbd></h3>
+      <p>A RESTful backend service built with Kotlin and Spring Boot — following clean architecture, dependency injection, and best practices for modern JVM development.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-🔨_In_Progress-orange?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Docker + Node.js App <kbd>Coming Soon</kbd></h3>
+      <p>Full-stack Node.js application containerized with Docker — Dockerfile, multi-stage builds, and deployment-ready configuration for cloud environments.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-🔨_In_Progress-orange?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Kotlin CLI Tool <kbd>Coming Soon</kbd></h3>
+      <p>Command-line utility tool written in Kotlin — showcasing coroutines, data classes, sealed classes, and idiomatic Kotlin patterns for backend tooling.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JVM-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-🔨_In_Progress-orange?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> 🚀 *Actively building and containerizing projects with Docker & Kotlin — repos will be published soon!*
 
 </div>
 
