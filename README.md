@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="32%" align="center" valign="top">
-      <img src="https://github.com/thrakaprabash.png" width="200" alt="Tharaka profile image" />
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220" alt="Developer animation" />
       <br/><br/>
       <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-0C5C7E?style=flat-square" alt="status" />
       <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20QUALITY-143D75?style=flat-square" alt="focus" />
