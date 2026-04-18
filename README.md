@@ -92,66 +92,68 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Current Worked Repositories
 
 <div align="center">
 
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌟 <a href="https://github.com/thrakaprabash/Creator-Economy-SaaS-Platform">Creator Economy SaaS Platform</a></h3>
-      <p>A full-stack MERN Micro-SaaS built for content creators — dashboard, analytics & monetization tools.</p>
+      <h3>🧠 <a href="https://github.com/thrakaprabash/nut-loose">nut-loose</a></h3>
+      <p>Youth mental health website focused on awareness, support resources, and user-friendly experience.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Web-0D1117?style=flat-square&logo=google-chrome&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 <a href="https://github.com/thrakaprabash/AF-LAB-6-Social-API">AF-LAB-6-Social-API</a></h3>
+      <p>Social API lab project focused on backend development patterns and API design fundamentals.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/thrakaprabash/toolsyne">toolsyne</a></h3>
+      <p>A fast, free online tool hub with calculators, converters, and reference tools for daily use.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌟 <a href="https://github.com/thrakaprabash/Creator-Economy-SaaS-Platform">Creator-Economy-SaaS-Platform</a></h3>
+      <p>A full-stack MERN Micro-SaaS for content creators with tools for dashboard and monetization workflows.</p>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/thrakaprabash/toolsyne">Toolsyne</a></h3>
-      <p>A fast, free online tool hub with calculators, converters & reference tools — built for everyday utility.</p>
+      <h3>🛒 <a href="https://github.com/thrakaprabash/ecommerce">ecommerce</a></h3>
+      <p>Responsive full-stack e-commerce application with product listing, cart, and checkout features.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/thrakaprabash/BoardMate">BoardMate</a></h3>
-      <p>A collaborative board game companion app for tracking scores, players and game states.</p>
+      <p>A collaborative board game companion app for tracking players, scores, and game states.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/thrakaprabash/ecommerce">E-Commerce App</a></h3>
-      <p>Full-stack, responsive e-commerce application with product listing, cart & checkout flow.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/thrakaprabash/OOPPROJECT">OOP Project</a></h3>
-      <p>Object-Oriented Programming project built in Java, demonstrating design patterns & OOP principles.</p>
+      <h3>📦 <a href="https://github.com/thrakaprabash/Lab-4-NodeJS">Lab-4-NodeJS</a></h3>
+      <p>Node.js fundamentals including HTTP server, file system operations, modules, and async patterns.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/thrakaprabash/OOPPROJECT">OOPPROJECT</a></h3>
+      <p>Java OOP project demonstrating object-oriented principles and software design concepts.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/thrakaprabash/IT23773844-AF-Lab-3">AF Lab 3 — Async JS</a></h3>
-      <p>Application Frameworks lab covering JS Promises, Callbacks & Async/Await patterns.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/thrakaprabash/Lab-4-NodeJS">Lab 4 — Node.js</a></h3>
-      <p>Node.js fundamentals — HTTP server, file system operations, modules & async patterns.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/thrakaprabash/skills-introduction-to-github">GitHub Skills</a></h3>
-      <p>Hands-on introduction to GitHub — repositories, pull requests, issues & GitHub Flow fundamentals.</p>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     </td>
   </tr>
 </table>
