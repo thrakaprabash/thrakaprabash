@@ -92,7 +92,7 @@ DevOps/CI/CD ██████░░░░░░░░░░░░░░  30%
 
 ---
 
-## 🔥 Current Worked Repositories
+## 🔥 Currently Active Repositories
 
 <div align="center">
 
