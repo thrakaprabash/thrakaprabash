@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:0B1026,70:111A3A,100:1A2A5E&text=Tharaka%20Prabash&fontColor=7DF9FF&fontSize=58&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=55&descAlign=50&section=header" width="100%"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:0B1026,70:111A3A,100:1A2A5E&text=Tharaka%20Prabash&fontColor=7DF9FF&fontSize=58&fontAlignY=40&desc=Full-Stack%20Developer" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=3200&center=true&vCenter=true&width=980&color=7DF9FF&lines=Designing+clean+experiences+with+code;Focused+on+backend+architecture;Building+quality-first+solutions" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=3200&center=true&vCenter=true&width=980&color=7DF9FF&lines=Designing+clean+experiences+with+code;Building+scalable+systems+that+matter" alt="typing animation" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/thrakaprabash?tab=followers"><img src="https://img.shields.io/github/followers/thrakaprabash?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=132456&label=Followers" alt="followers" /></a>
-  <a href="https://github.com/thrakaprabash"><img src="https://img.shields.io/github/stars/thrakaprabash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=132456&label=Total%20Stars" alt="total stars" /></a>
+  <a href="https://github.com/thrakaprabash?tab=followers"><img src="https://img.shields.io/github/followers/thrakaprabash?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=13254E" alt="followers" /></a>
+  <a href="https://github.com/thrakaprabash"><img src="https://img.shields.io/github/stars/thrakaprabash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=13254E" alt="stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=thrakaprabash&style=for-the-badge&label=PROFILE+VIEWS&color=13254E" alt="views" />
 </p>
 
@@ -94,11 +94,11 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=00C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7DF9FF&sideLabels=E6EDF3" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=00C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7DF9FF&dates=E6EDF3" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DF9FF&line=00C2FF&point=E6EDF3&area=true&area_color=1A4A4A" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DF9FF&line=00C2FF&point=E6EDF3&area=true&area_color=1A2A5E" alt="activity graph" />
 </div>
 
 ---
