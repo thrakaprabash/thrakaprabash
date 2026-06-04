@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:0B1026,70:111A3A,100:1A2A5E&text=Tharaka%20Prabash&fontColor=7DF9FF&fontSize=58&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20SQE%20Enthusiast%20%7C%20Open%20Source&descAlignY=62&descSize=18&animation=twinkling" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:0B1026,70:111A3A,100:1A2A5E&text=Tharaka%20Prabash&fontColor=7DF9FF&fontSize=58&fontAlignY=40&desc=Full-Stack%20Developer" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=3200&center=true&vCenter=true&width=980&color=7DF9FF&lines=Designing+clean+experiences+with+production-grade+code;MERN+%7C+Next.js+%7C+Node.js+%7C+Automation+Testing;Building+scalable+products+that+actually+ship;Always+learning%2C+always+improving" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=3200&center=true&vCenter=true&width=980&color=7DF9FF&lines=Designing+clean+experiences+with+code;Building+scalable+full-stack+systems;Quality-first+mindset+always" alt="typing animation" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/thrakaprabash?tab=followers"><img src="https://img.shields.io/github/followers/thrakaprabash?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=13254E" alt="followers" /></a>
-  <a href="https://github.com/thrakaprabash"><img src="https://img.shields.io/github/stars/thrakaprabash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=13254E" alt="stars" /></a>
+  <a href="https://github.com/thrakaprabash?tab=followers"><img src="https://img.shields.io/github/followers/thrakaprabash?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=132547" alt="followers" /></a>
+  <a href="https://github.com/thrakaprabash"><img src="https://img.shields.io/github/stars/thrakaprabash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=132547" alt="stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=thrakaprabash&style=for-the-badge&label=PROFILE+VIEWS&color=13254E" alt="views" />
 </p>
 
@@ -89,16 +89,16 @@
 ## Live GitHub Metrics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&icon_color=00C2FF&text_color=C9D1D9&rank_icon=github" alt="github stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&icon_color=00C2FF&text_color=C9D1D9" alt="stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=00C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7DF9FF&sideLabels=7DF9FF" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=00C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7DF9FF&dateFormat=j%20M%5B%20Y%5D" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DF9FF&line=00C2FF&point=E6EDF3&area=true&area_color=13254E" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DF9FF&line=00C2FF&point=E6EDF3&area=true&area_color=1A2A5E" alt="activity graph" />
 </div>
 
 ---
