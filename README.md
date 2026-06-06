@@ -64,12 +64,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6EE7F7&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8" alt="top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7F7&fire=58a6ff&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6EE7F7&sideLabels=8b949e&dates=8b949e" alt="streak" />
+<!-- GitHub Stats via github-profile-summary-cards (reliable alternative) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thrakaprabash&theme=tokyo_night" width="100%" alt="profile summary" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrakaprabash&theme=tokyo_night" height="160em" alt="repos per language" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thrakaprabash&theme=tokyo_night" height="160em" alt="commit language" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrakaprabash&theme=tokyo_night" height="160em" alt="stats" />
+
 </div>
 
 <div align="center">
