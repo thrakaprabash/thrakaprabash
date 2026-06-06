@@ -61,20 +61,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<!-- GitHub Stats via github-profile-summary-cards (reliable alternative) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thrakaprabash&theme=tokyo_night" width="100%" alt="profile summary" />
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6EE7F7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/University-SLIIT-58a6ff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Open%20to%20Collaborate-238636?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrakaprabash&theme=tokyo_night" height="160em" alt="repos per language" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thrakaprabash&theme=tokyo_night" height="160em" alt="commit language" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrakaprabash&theme=tokyo_night" height="160em" alt="stats" />
+![](https://img.shields.io/badge/Languages-JS%20%7C%20TS%20%7C%20Python%20%7C%20Kotlin%20%7C%20Java-6EE7F7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js%20%7C%20Node%20%7C%20Flask-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Tools-Docker%20%7C%20AWS%20%7C%20Git%20%7C%20Postman-a371f7?style=flat-square&labelColor=0d1117)
 
 </div>
 
