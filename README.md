@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:0B1026,70:111A3A,100:1A2A5E&text=Tharaka%20Prabash&fontColor=7DF9FF&fontSize=58&fontAlignY=40&desc=Full-Stack%20Developer" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,35:0B1026,70:111A3A,100:1A2A5E&text=Tharaka%20Prabash&fontColor=7DF9FF&fontSize=58&fontAlignY=40&desc=Full-Stack%20Developer%20%26%20Software%20Engineer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=3200&center=true&vCenter=true&width=980&color=7DF9FF&lines=Designing+clean+experiences+with+code;Building+scalable+systems+that+matter" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&duration=3200&center=true&vCenter=true&width=980&color=7DF9FF&lines=Designing+clean+experiences+with+TypeScript,+React+%26+Node.js;Building+production-ready+systems+with+quality+focus;Full-stack+development+across+web+%26+mobile;Exploring+backend+architecture+%26+DevOps" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/thrakaprabash?tab=followers"><img src="https://img.shields.io/github/followers/thrakaprabash?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=13254E" alt="followers" /></a>
-  <a href="https://github.com/thrakaprabash"><img src="https://img.shields.io/github/stars/thrakaprabash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=13254E" alt="stars" /></a>
+  <a href="https://github.com/thrakaprabash?tab=followers"><img src="https://img.shields.io/github/followers/thrakaprabash?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=132543&label=Followers" /></a>
+  <a href="https://github.com/thrakaprabash"><img src="https://img.shields.io/github/stars/thrakaprabash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=0A0F1F&color=132543&label=Stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=thrakaprabash&style=for-the-badge&label=PROFILE+VIEWS&color=13254E" alt="views" />
 </p>
 
@@ -29,7 +29,7 @@
 - Undergraduate in BSc (Hons) IT - Software Engineering at SLIIT
 - Focused on robust full-stack systems, backend architecture, and software quality
 - Interested in micro-SaaS products, API design, automation pipelines, and practical UX
-- Currently deepening TypeScript, Next.js architecture, Docker workflows, Kotlin, and AWS
+- Currently deepening TypeScript, Next.js, React Native, Python, Flask, Docker workflows, Kotlin, and AWS
 - Building with a quality-first mindset: maintainability, testability, and real user value
 
 > Clean structure, meaningful features, and scalable decisions.
@@ -48,10 +48,13 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,html,css&theme=dark&perline=7" alt="languages" />
 
 ### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap,spring&theme=dark&perline=8" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap,spring,flask&theme=dark&perline=9" alt="frameworks" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=1" alt="mobile" /> **React Native** with Expo for cross-platform mobile applications
 
 ### Database, DevOps, and Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,postman,figma,vscode,vercel,netlify&theme=dark&perline=10" alt="tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,postman,figma,vscode,vercel,netlify&theme=dark&perline=11" alt="tools" />
 
 </div>
 
@@ -72,6 +75,11 @@
 | [BoardMate](https://github.com/thrakaprabash/BoardMate) | Collaboration support app for board game sessions | JavaScript, Node.js |
 | [ecommerce](https://github.com/thrakaprabash/ecommerce) | Responsive e-commerce experience and storefront workflows | React, Vite |
 
+### Recent Explorations
+- **React Native** - Cross-platform mobile application development with Expo
+- **Python + Flask** - Lightweight backend APIs and microservices
+- *(More projects coming soon)*
+
 ---
 
 ## Open Source Footprint
@@ -89,16 +97,16 @@
 ## Live GitHub Metrics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&icon_color=00C2FF&text_color=C9D1D9" alt="stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=thrakaprabash&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&icon_color=00C2FF&text_color=C9D1D9" alt="github stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrakaprabash&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=00C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7DF9FF&dates=E6EDF3" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=thrakaprabash&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=00C2FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7DF9FF&dates=7DF9FF" alt="github streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DF9FF&line=00C2FF&point=E6EDF3&area=true&area_color=1A2A5E" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrakaprabash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7DF9FF&line=00C2FF&point=E6EDF3&area=true&area_color=1A3A52" alt="contribution graph" />
 </div>
 
 ---
@@ -106,9 +114,12 @@
 ## 2026 Targets
 
 - Launch more production-ready full-stack products
+- Build complete mobile apps with React Native and Expo
+- Develop Python + Flask backend services for microservices architecture
 - Raise depth in QA automation and test strategy
 - Publish open-source repos with stronger docs and architecture notes
 - Strengthen cloud and deployment execution with Docker and AWS
+- Explore machine learning integrations with Python
 
 ---
 
