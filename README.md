@@ -148,9 +148,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Tharaka%20Prabash-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://nut-loose.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Project-161b22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-  </a>
 </p>
 
 <p align="center">
