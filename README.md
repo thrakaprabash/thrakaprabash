@@ -149,7 +149,7 @@
   </a>
   &nbsp;
   <a href="https://nut-loose.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Project-nut--loose-00c7b7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Live%20Project-161b22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
